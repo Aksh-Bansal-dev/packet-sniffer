@@ -4,7 +4,7 @@ A simple packer sniffer written in python. Currently, it only supports TCP, UDP 
 It logs all frames/packets that are sent or received by your computer.
 
 ## How to use
-Run `./sniffer.py [-flag]`
+Run `sudo ./sniffer.py [-flag]`
 #### Flags
 - `-t` for TCP only
 - `-u` for UDP only
